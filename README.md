@@ -1,5 +1,5 @@
 # T-FLIPFLOP-POSEDGE
-
+### Exp. No: 09
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
